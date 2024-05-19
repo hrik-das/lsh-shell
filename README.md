@@ -1,5 +1,5 @@
 # LSH Shell
-LSH is a simple implementation of a shell in C, and it is the subject of a tutorial on my website. It demonstrates the basics of how a shell works. That is: read, parse, fork, exec, and wait. Since its purpose is demonstration (not feature completeness or even fitness for casual use), it has many limitations, including:
+LSH is a simple implementation of a shell in C, and It demonstrates the basics of how a shell works. That is: read, parse, fork, exec, and wait. Since its purpose is demonstration (not feature completeness or even fitness for casual use), it has many limitations, including:
 - Commands must be on a single line.
 - Arguments must be separated by whitespace.
 - No quoting arguments or escaping whitespace.
